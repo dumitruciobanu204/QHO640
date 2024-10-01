@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.accommodations-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; 
+}

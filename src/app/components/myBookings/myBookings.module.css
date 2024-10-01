@@ -1,0 +1,62 @@
+.container {
+    padding: 20px;
+}
+
+/* .title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+} */
+
+.bookingList {
+    list-style: none;
+    padding: 0;
+}
+
+.bookingItem {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.imageSection {
+    flex: 1;
+}
+
+.accommodationImage {
+    width: 350px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.detailsSection {
+    flex: 2;
+    padding-left: 20px;
+}
+
+.detailsSection h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+.detailsSection p {
+    margin: 5px 0;
+}
+
+.editButton {
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.editButton:hover {
+    background-color: #005bb5;
+}
