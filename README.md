@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 - **username:** admin@plc.com
 - **password:** admin123
-- 
+
 ## Getting Started
 
 First, run the development server:
